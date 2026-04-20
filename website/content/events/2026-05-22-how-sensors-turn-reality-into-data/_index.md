@@ -5,7 +5,7 @@ slug: "how-sensors-turn-reality-into-data"
 date: 2026-05-22T18:00:00+02:00
 draft: false
 location: "Veranstaltungsraum, Haus des Engagements, Rehlingstraße 9, 79100 Freiburg"
-cover: "Image.png"
+cover: "Cover.png"
 ---
 
 Sensors shape how we interact with the world. They measure temperature, motion, light, pressure, sound, magnetic fields, and much more. They are inside phones, cars, medical devices, factories, and scientific instruments.
